@@ -1,0 +1,24 @@
+{
+  "name": "bomba-fans",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@maybecode/vue-next-animejs": "^1.0.5",
+    "animejs": "^3.2.1",
+    "motion": "^10.14.3",
+    "vue": "^3.2.41",
+    "vue-anime": "^1.0.0",
+    "vue-animejs": "^2.1.1",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/animejs": "^3.1.6",
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}
